@@ -1,1 +1,2 @@
-# phone-cases-app
+# IPhone Cases shop
+
